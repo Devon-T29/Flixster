@@ -27,6 +27,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://github.com/Devon-T29/Flixster/blob/master/Flixster.gif" width=250><br>
 
+### App Walkthrough GIF Full Screen
+
+<img src="https://github.com/Devon-T29/Flixster/blob/master/Flixster2NewVid.gif" width=250><br>
+
 ### Notes
 Only challenged faced when creating my app, is when I finished my code, none of the movies were showing up no matter how many times a re-ran the app, but I fixed it by simply uninstalling the app from the phone and running it again. 
 
